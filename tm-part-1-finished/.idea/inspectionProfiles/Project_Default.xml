@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ClangTidy" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="Clazy" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+    <inspection_tool class="OCUnusedConcept" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedGlobalDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedIncludeDirective" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedMacro" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedStruct" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedTemplateParameter" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedTypeAlias" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Source Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>

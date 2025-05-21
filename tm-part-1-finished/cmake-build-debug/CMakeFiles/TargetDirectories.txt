@@ -1,0 +1,3 @@
+/Users/heirmeila/Downloads/gdrive/cmake-build-debug/CMakeFiles/gdrive.dir
+/Users/heirmeila/Downloads/gdrive/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heirmeila/Downloads/gdrive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
